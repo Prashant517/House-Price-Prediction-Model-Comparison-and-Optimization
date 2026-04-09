@@ -64,6 +64,8 @@ The workflow includes:
 
 ```bash
 git clone https://github.com/Prashant517/House-Price-Prediction-Model-Comparison-and-Optimization.git
+
+cd House-Price-Prediction-Model-Comparison-and-Optimization
 ```
 
 2. (Recommended) Create and activate a virtual environment:
@@ -82,14 +84,14 @@ pip install -r requirements.txt
 4. Open and run the notebook:
 
 ```bash
-jupyter notebook task2_enhanced_house_price_prediction_system.ipynb
+jupyter notebook enhanced_house_price_prediction_system.ipynb
 ```
 
 ---
 
 ## 📌 Notes
 
-* The project is notebook-based, so the main work is in `task2_enhanced_house_price_prediction_system.ipynb`.
+* The project is notebook-based, so the main work is in `enhanced_house_price_prediction_system.ipynb`.
 * `seaborn` is not required for the current notebook implementation.
 * If you want a cleaner repository, consider excluding the `venv/` folder from version control.
 
